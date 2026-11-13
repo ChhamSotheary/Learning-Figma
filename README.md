@@ -17,7 +17,7 @@
 4. [Components & Design Systems](Module-04-Components-Design-Systems/README.md)
 5. [Prototyping & Interaction](Module-05-Prototyping-Interaction/README.md)
 6. [Advanced Figma & Design Handoff](Module-06-Advanced-Handoff/README.md)
-7. Plugins & Final Project
+7. [Plugins & Final Project](Module-07-Plugins-Final-Project/README.md)
 
 ## Study Method
 អានមេរៀនតាមលំដាប់ អនុវត្តក្នុង Figma ធ្វើលំហាត់ និងបញ្ចប់ Mini Projects មុនបន្តទៅ Module បន្ទាប់។
