@@ -15,7 +15,7 @@
 2. [Design Elements: Typography, Colors & Images](Module-02-Design-Elements/README.md)
 3. [Layout, Auto Layout & Responsive Design](Module-03-Layout-Auto-Layout-Responsive/README.md)
 4. [Components & Design Systems](Module-04-Components-Design-Systems/README.md)
-5. Prototyping & Interaction
+5. [Prototyping & Interaction](Module-05-Prototyping-Interaction/README.md)
 6. Advanced Figma & Design Handoff
 7. Plugins & Final Project
 
