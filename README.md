@@ -13,7 +13,7 @@
 ## Course Modules
 1. Figma Fundamentals
 2. Design Elements: Typography, Colors & Images
-3. Layout, Auto Layout & Responsive Design
+3. [Layout, Auto Layout & Responsive Design](Module-03-Layout-Auto-Layout-Responsive/README.md)
 4. Components & Design Systems
 5. Prototyping & Interaction
 6. Advanced Figma & Design Handoff
