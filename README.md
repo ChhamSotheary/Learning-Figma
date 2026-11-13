@@ -16,7 +16,7 @@
 3. [Layout, Auto Layout & Responsive Design](Module-03-Layout-Auto-Layout-Responsive/README.md)
 4. [Components & Design Systems](Module-04-Components-Design-Systems/README.md)
 5. [Prototyping & Interaction](Module-05-Prototyping-Interaction/README.md)
-6. Advanced Figma & Design Handoff
+6. [Advanced Figma & Design Handoff](Module-06-Advanced-Handoff/README.md)
 7. Plugins & Final Project
 
 ## Study Method
